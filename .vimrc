@@ -1,0 +1,11 @@
+set nu
+syntax on  
+set cursorline
+set backspace=2
+set t_Co=256
+set autoindent
+colorscheme wombat256
+set encoding=utf-8
+set mouse=a
+set tabstop=4
+set ls=2
